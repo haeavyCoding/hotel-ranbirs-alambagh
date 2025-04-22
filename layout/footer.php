@@ -24,7 +24,7 @@
                         <div class="ft-contact">
                             <h6>Contact Us</h6>
                             <ul>
-                                <li>+05224327173</li>
+                                <li>+91 5224327173</li>
                                 <li>reseravtaion@hotelranbirsalamabagh.com</li>
                                 <li>Hotel Ranbirs, KBC- 11, Kanpur Rd, Sector B, Bargawan, Alambagh, Lucknow, Uttar Pradesh 226012</li>
                             </ul>

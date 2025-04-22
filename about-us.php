@@ -21,25 +21,34 @@
     <section class="aboutus-page-section spad">
         <div class="container">
             <div class="about-page-text">
-                <div class="row">
-                    <div class="col-lg-6">
-                        <div class="ap-title">
-                            <h2>Welcome To Sona.</h2>
-                            <p>Built in 1910 during the Belle Epoque period, this hotel is located in the center of
-                                Paris, with easy access to the city’s tourist attractions. It offers tastefully
-                                decorated rooms.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-5 offset-lg-1">
-                        <ul class="ap-services">
-                            <li><i class="icon_check"></i> 20% Off On Accommodation.</li>
-                            <li><i class="icon_check"></i> Complimentary Daily Breakfast</li>
-                            <li><i class="icon_check"></i> 3 Pcs Laundry Per Day</li>
-                            <li><i class="icon_check"></i> Free Wifi.</li>
-                            <li><i class="icon_check"></i> Discount 20% On F&B</li>
-                        </ul>
-                    </div>
-                </div>
+            <div class="row">
+    <div class="col-lg-6">
+        <div class="ap-title">
+            <h2>Welcome To Ranbirs.</h2>
+            <p>Welcome to Hotel Ranbirs, where luxury meets heritage. Located in the heart of Lucknow, we offer an exquisite blend of comfort and tradition to make your stay unforgettable.</p>
+
+            <!-- Address Section -->
+            <div class="mt-4">
+                <h6 class="fw-bold mb-1"><i class="fas fa-map-marker-alt me-2 text-primary"></i>Address</h6>
+                <p class="text-muted mb-0">
+                    Hotel Ranbirs, KBC-11, Kanpur Rd, Sector B, Bargawan, Alambagh,<br>
+                    Lucknow, Uttar Pradesh 226012
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-5 offset-lg-1">
+        <ul class="ap-services">
+            <li><i class="icon_check"></i> 20% Off On Accommodation.</li>
+            <li><i class="icon_check"></i> Complimentary Daily Breakfast</li>
+            <li><i class="icon_check"></i> 3 Pcs Laundry Per Day</li>
+            <li><i class="icon_check"></i> Free Wifi.</li>
+            <li><i class="icon_check"></i> Discount 20% On F&B</li>
+        </ul>
+    </div>
+</div>
+
             </div>
             <div class="about-page-services">
                 <div class="row">

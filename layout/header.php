@@ -37,7 +37,7 @@
     <div class="responsive py-2 ">
     <div class="logo-responsive px-5">
                             <a href="./index.php">
-                                <img src="img/cropped-logo323 (2).jpg" alt="">
+                                <img src="img/cropped-logo323 (2).jpg" alt="Hotel Ranbirs Alambagh building front view at night with lights">
                             </a>
                         </div>
     <div class="canvas-open">
@@ -60,16 +60,11 @@
             <ul>
                 <li class="active"><a href="./index.php">Home</a></li>
                 <li><a href="./rooms.php">Rooms</a></li>
+                <li><a href="./Banquet.php"> BANQUET</a></li>
+                <li><a href="./amenities.php">Amenities</a></li>
+                <li><a href="./gallery.php">Gallery</a></li>
+                <li><a href="./restaurant.php">Restaurant</a></li>
                 <li><a href="./about-us.php">About Us</a></li>
-                <li><a href="./pages.php">Pages</a>
-                    <ul class="dropdown">
-                        <li><a href="./room-details.php">Room Details</a></li>
-                        <li><a href="#">Deluxe Room</a></li>
-                        <li><a href="#">Family Room</a></li>
-                        <li><a href="#">Premium Room</a></li>
-                    </ul>
-                </li>
-                <li><a href="./blog.php">News</a></li>
                 <li><a href="./contact.php">Contact</a></li>
             </ul>
         </nav>
@@ -134,28 +129,23 @@
                     <div class="col-lg-2">
                         <div class="logo">
                             <a href="./index.php">
-                                <img src="img/cropped-logo323 (2).jpg" alt="">
+                                <img src="img/cropped-logo323 (2).jpg" alt="Hotel Ranbirs Alambagh building front view at night with lights">
                             </a>
                         </div>
                     </div>
                     <div class="col-lg-10">
                         <div class="nav-menu">
                             <nav class="mainmenu">
-                                <ul>
-                                    <li class="active"><a href="./index.php">Home</a></li>
-                                    <li><a href="./rooms.php">Rooms</a></li>
-                                    <li><a href="./about-us.php">About Us</a></li>
-                                    <li><a href="./pages.php">Pages</a>
-                                        <ul class="dropdown">
-                                            <li><a href="./room-details.php">Room Details</a></li>
-                                            <li><a href="./blog-details.php">Blog Details</a></li>
-                                            <li><a href="#">Family Room</a></li>
-                                            <li><a href="#">Premium Room</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="./blog.php">News</a></li>
-                                    <li><a href="./contact.php">Contact</a></li>
-                                </ul>
+                            <ul>
+                <li class="active"><a href="./index.php">Home</a></li>
+                <li><a href="./rooms.php">Rooms</a></li>
+                <li><a href="./Banquet.php"> Banquet</a></li>
+                <li><a href="./amenities.php">Amenities</a></li>
+                <li><a href="./gallery.php">Gallery</a></li>
+                <li><a href="./restaurant.php">Restaurant</a></li>
+                <li><a href="./about-us.php">About Us</a></li>
+                <li><a href="./contact.php">Contact</a></li>
+            </ul>
                             </nav>
                         </div>
                     </div>

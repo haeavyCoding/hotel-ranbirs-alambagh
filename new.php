@@ -53,7 +53,6 @@
     </div>
 </section>
 
-
 <!-- Services Section -->
 <section class="services-section py-5">
     <div class="container">
@@ -89,104 +88,7 @@
         </div>
     </div>
 </section>
-<section class="aboutus-section spad"
-    style="background: linear-gradient(135deg, #f9f9f9 0%, #ffffff 100%); padding: 100px 0;">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-6 order-lg-1 order-2">
-                <div class="about-text" style="position: relative; z-index: 2;">
-                    <div class="section-title">
-                        <span style="color: #d4af37; font-size: 18px; letter-spacing: 2px; font-weight: 600;">DISCOVER
-                            OUR STORY</span>
-                        <h2 style="font-size: 42px; line-height: 1.2; margin: 20px 0 25px; position: relative;">
-                            <span style="color: #222;">Experience Luxury at</span><br>
-                            <span style="color: #d4af37; position: relative;">Hotel Ranbirs
-                                <!-- <svg width="120" height="12" viewBox="0 0 120 12" style="position: absolute; bottom: -10px; left: 0;">
-                                    <path d="M0,6 Q30,0 60,6 T120,6" stroke="#d4af37" stroke-width="2" fill="none"/>
-                                </svg> -->
-                            </span>
-                        </h2>
-                    </div>
-                    <p class="lead-text" style="font-size: 18px; line-height: 1.8; color: #555; margin-bottom: 30px;">
-                        Nestled in the heart of Alambagh, Hotel Ranbirs stands as a beacon of refined hospitality,
-                        where timeless elegance meets modern comfort.
-                    </p>
-                    <div class="about-features" style="margin-bottom: 30px;">
-                        <div class="feature-item" style="display: flex; margin-bottom: 15px;">
-                            <div style="margin-right: 15px; color: #d4af37; font-size: 24px;">✓</div>
-                            <p style="margin: 0; color: #555;">Luxurious accommodations with bespoke amenities</p>
-                        </div>
-                        <div class="feature-item" style="display: flex; margin-bottom: 15px;">
-                            <div style="margin-right: 15px; color: #d4af37; font-size: 24px;">✓</div>
-                            <p style="margin: 0; color: #555;">Award-winning multi-cuisine restaurant</p>
-                        </div>
-                        <div class="feature-item" style="display: flex;">
-                            <div style="margin-right: 15px; color: #d4af37; font-size: 24px;">✓</div>
-                            <p style="margin: 0; color: #555;">State-of-the-art event spaces for any occasion</p>
-                        </div>
-                    </div>
-                    <a href="#" class="primary-btn about-btn"
-                        style="display: inline-block; background: #d4af37; color: #fff; padding: 12px 30px; border-radius: 30px; text-decoration: none; font-weight: 600; letter-spacing: 1px; transition: all 0.3s; border: 2px solid #d4af37;">
-                        Explore More <i class="fas fa-chevron-right" style="margin-left: 8px;"></i>
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-6 order-lg-2 order-1 mb-lg-0 mb-5">
-                <div class="about-gallery" style="position: relative;">
-                    <div class="row g-3">
-                        <div class="col-md-6">
-                            <div class="gallery-item"
-                                style="overflow: hidden; border-radius: 10px; box-shadow: 0 15px 30px rgba(0,0,0,0.1);">
-                                <img src="img/restaurant-768x1024.jpeg" alt="Luxury Restaurant"
-                                    style="width: 100%; height: 300px; object-fit: cover; transition: transform 0.5s;">
-                                <div class="img-overlay"
-                                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; opacity: 0; transition: opacity 0.3s;">
-                                    <span style="color: #fff; font-weight: 600; font-size: 18px;">Gourmet Dining</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 pt-4">
-                            <div class="gallery-item"
-                                style="overflow: hidden; border-radius: 10px; box-shadow: 0 15px 30px rgba(0,0,0,0.1);">
-                                <img src="img/rooms_icon.jpeg" alt="Luxury Suite"
-                                    style="width: 100%; height: 300px; object-fit: cover; transition: transform 0.5s;">
-                                <div class="img-overlay"
-                                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; opacity: 0; transition: opacity 0.3s;">
-                                    <span style="color: #fff; font-weight: 600; font-size: 18px;">Elegant Rooms</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="gallery-item"
-                                style="overflow: hidden; border-radius: 10px; box-shadow: 0 15px 30px rgba(0,0,0,0.1);">
-                                <img src="img/food1.avif" alt="Event Space"
-                                    style="width: 100%; height: 250px; object-fit: cover; transition: transform 0.5s;">
-                                <div class="img-overlay"
-                                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; opacity: 0; transition: opacity 0.3s;">
-                                    <span style="color: #fff; font-weight: 600; font-size: 18px;">Event Spaces</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="gallery-item"
-                                style="overflow: hidden; border-radius: 10px; box-shadow: 0 15px 30px rgba(0,0,0,0.1);">
-                                <img src="img/bavnquet_ranbir-alambagh-1024x768 (1).jpeg" alt="Wellness Spa"
-                                    style="width: 100%; height: 250px; object-fit: cover; transition: transform 0.5s;">
-                                <div class="img-overlay"
-                                    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; opacity: 0; transition: opacity 0.3s;">
-                                    <span style="color: #fff; font-weight: 600; font-size: 18px;">Wellness Spa</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="decoration-element"
-                        style="position: absolute; width: 150px; height: 150px; border: 15px solid rgba(212, 175, 55, 0.2); top: -20px; right: -20px; z-index: -1;">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <!-- Premium Services Section -->
 <section class="premium-services-section">
     <div class="container">
