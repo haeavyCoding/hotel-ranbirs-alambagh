@@ -1,4 +1,5 @@
 <?php include("layout/header.php"); ?>
+</head>
     <!-- Breadcrumb Section Begin -->
     <div class="breadcrumb-section">
         <div class="container">
